@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+  <title id="title">Libreria El Tu Amigo Librero</title>
+  <desc id="desc">Icono de un libro abierto junto al nombre de la libreria</desc>
+  <rect width="640" height="180" rx="24" fill="#f7f1df"/>
+  <path d="M48 45c34-13 66-10 94 10v78c-28-20-60-23-94-10V45Z" fill="#2f6f55"/>
+  <path d="M142 55c28-20 60-23 94-10v78c-34-13-66-10-94 10V55Z" fill="#c88b3a"/>
+  <path d="M142 55v78" fill="none" stroke="#f7f1df" stroke-width="5"/>
+  <path d="M65 68c21-5 42-2 61 10M65 88c21-5 42-2 61 10M162 78c19-12 40-15 61-10M162 98c19-12 40-15 61-10" fill="none" stroke="#f7f1df" stroke-width="4" stroke-linecap="round"/>
+  <text x="270" y="85" fill="#244b3a" font-family="Georgia, serif" font-size="33" font-weight="700">El Tu Amigo</text>
+  <text x="272" y="124" fill="#c88b3a" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="2">LIBRERO</text>
+</svg>
